@@ -1,4 +1,4 @@
-# Aldous
+<img width="1388" alt="Screenshot 2024-08-25 at 14 33 09" src="https://github.com/user-attachments/assets/95c7b206-3e03-411e-85f8-8f9a675e5162"># Aldous
 
 Aldous is a generative audio-visual script for the Norns platform, creating an evolving tree-like structure accompanied by a responsive soundscape.
 
@@ -23,6 +23,9 @@ Aldous generates a dynamic, branching pattern inspired by natural growth process
 4. Restart or rescan scripts on your Norns
 
 ## Demo
+
+<img width="1388" alt="Screenshot 2024-08-25 at 14 33 09" src="https://github.com/user-attachments/assets/d27f1e8f-d2fb-4af1-b061-c91df459ca52">
+
 https://youtu.be/cQojuEV5z34
 
 ## Usage
