@@ -22,6 +22,9 @@ Aldous generates a dynamic, branching pattern inspired by natural growth process
 3. Clone this repository: `git clone https://github.com/yourusername/aldous.git`
 4. Restart or rescan scripts on your Norns
 
+## Demo
+https://youtu.be/cQojuEV5z34
+
 ## Usage
 
 - Select and run the "Aldous" script on your Norns
@@ -51,5 +54,5 @@ Contributions, issues, and feature requests are welcome. Feel free to check issu
 
 ## Acknowledgments
 
-- Inspired by natural growth patterns and generative art
+- Inspired by natural growth patterns and generative art, with support from Claude
 - Developed for the Norns platform by Monome
