@@ -28,6 +28,7 @@ Aldous generates a dynamic, branching pattern inspired by natural growth process
 <img width="1388" alt="Screenshot 2024-08-25 at 14 33 09" src="https://github.com/user-attachments/assets/d27f1e8f-d2fb-4af1-b061-c91df459ca52">
 
 https://youtu.be/cQojuEV5z34
+https://www.youtube.com/watch?v=SEg_giNUPj4 
 
 ## Usage
 
